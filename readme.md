@@ -2,7 +2,6 @@
 
 ![Language](https://img.shields.io/badge/Language-Python3.8+-blue.svg?style=flat)
 
-[中文说明](#IAR 清理工具)
 
 A simple script is used to clean up the IAR (embedded IDE) installation directory space. It is written in pure python
 and has no external dependencies. It supports package migration, compression and deletion for manufacturer chips
@@ -143,7 +142,6 @@ configuration file from the chip package of each manufacturer to synthesize your
 
 ![Language](https://img.shields.io/badge/Language-Python3.8+-blue.svg?style=flat)
 
-[中文说明](#IAR 清理工具)
 
 简单的脚本用于清理IAR(嵌入式芯片IDE)安装目录空间.使用纯python编写,没有外部依赖.支持对芯片支持包迁移,压缩,删除.
 
